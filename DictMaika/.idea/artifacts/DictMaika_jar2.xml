@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DictMaika:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/DictMaika_jar2</output-path>
+    <root id="archive" name="DictMaika.jar">
+      <element id="module-output" name="DictMaika" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/sqlite-jdbc-3.8.11.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.22.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
